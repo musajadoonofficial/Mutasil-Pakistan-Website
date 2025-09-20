@@ -1,0 +1,30 @@
+[15-Sep-2025 13:54:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home4/mutasilp/public_html/panel.php:29
+Stack trace:
+#0 /home4/mutasilp/public_html/panel.php(29): mysqli->__construct()
+#1 {main}
+  thrown in /home4/mutasilp/public_html/panel.php on line 29
+[15-Sep-2025 13:54:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home4/mutasilp/public_html/panel.php:29
+Stack trace:
+#0 /home4/mutasilp/public_html/panel.php(29): mysqli->__construct()
+#1 {main}
+  thrown in /home4/mutasilp/public_html/panel.php on line 29
+[15-Sep-2025 13:54:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home4/mutasilp/public_html/panel.php:29
+Stack trace:
+#0 /home4/mutasilp/public_html/panel.php(29): mysqli->__construct()
+#1 {main}
+  thrown in /home4/mutasilp/public_html/panel.php on line 29
+[15-Sep-2025 13:55:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home4/mutasilp/public_html/panel.php:29
+Stack trace:
+#0 /home4/mutasilp/public_html/panel.php(29): mysqli->__construct()
+#1 {main}
+  thrown in /home4/mutasilp/public_html/panel.php on line 29
+[15-Sep-2025 13:55:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home4/mutasilp/public_html/panel.php:29
+Stack trace:
+#0 /home4/mutasilp/public_html/panel.php(29): mysqli->__construct()
+#1 {main}
+  thrown in /home4/mutasilp/public_html/panel.php on line 29
+[15-Sep-2025 13:55:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home4/mutasilp/public_html/panel.php:29
+Stack trace:
+#0 /home4/mutasilp/public_html/panel.php(29): mysqli->__construct()
+#1 {main}
+  thrown in /home4/mutasilp/public_html/panel.php on line 29
